@@ -35,8 +35,6 @@ A web application that runs on EC2 instances spread across multiple Availability
                (min 2, desired 2, max 5)
 ```
 
-> ![Architecture diagram](screenshots/architecture.png)
-
 ## Resources
 
 | Resource | Name | Key settings |
